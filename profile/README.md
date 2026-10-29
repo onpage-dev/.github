@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://onpage.it/">
-    <img src="../assets/on-page-pictogram.png" alt="On Page® pictogram" width="88">
+    <img src="../assets/on-page-avatar.png" alt="On Page® pictogram" width="88">
   </a>
 </p>
 
