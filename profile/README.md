@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://onpage.it/">
-    <img src="../assets/on-page-avatar.png" alt="On Page® pictogram" width="88">
+    <img src="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-avatar.png" alt="On Page® pictogram" width="88">
   </a>
 </p>
 
 <p align="center">
   <a href="https://onpage.it/">
-    <img src="../assets/on-page-logo.png" alt="On Page®" width="460">
+    <img src="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-logo.png" alt="On Page®" width="460">
   </a>
 </p>
 
