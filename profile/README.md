@@ -1,12 +1,9 @@
 <p align="center">
   <a href="https://onpage.it/">
-    <img src="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-avatar.png" alt="On Page® pictogram" width="88">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://onpage.it/">
-    <img src="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-logo.png" alt="On Page®" width="460">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-logo-dark.png">
+      <img src="https://raw.githubusercontent.com/onpage-dev/.github/main/assets/on-page-logo.png" alt="On Page®" width="400">
+    </picture>
   </a>
 </p>
 
